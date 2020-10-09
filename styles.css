@@ -3,7 +3,25 @@ body {
     font-family:Arial, Helvetica, sans-serif;
 }
 
+.assignment {
+    display:flex;
+    padding:10px;
+    margin:10px;
+    background:darkolivegreen;
+}
+
+.assignment img{
+    width:200px;
+    border: 2px solid pink;
+    margin-right:20px;
+}
+
 h1 {
     color: darkorchid;
     text-align:center;
+}
+
+a {
+text-decoration:none;
+color:burlywood
 }
